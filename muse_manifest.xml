@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ftp://ftp.ha002.justhost.ru/domains/u11854jx5.ha002.t.justns.ru/public_html" resolutions="1x" timestamp="1481437329588">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="315464184" ref="биология:однкнр:юпитер:меркурий:планеты:сатурн:уран:география:index:нептун:марс:венера:земля"/>
+    <file name="________1.css" crc="409770607" ref="биология"/>
+    <file name="______4.css" crc="409770607" ref="однкнр"/>
+    <file name="______1.css" crc="85827624" ref="юпитер"/>
+    <file name="________.css" crc="4082350627" ref="меркурий"/>
+    <file name="_______.css" crc="409770607" ref="планеты"/>
+    <file name="______.css" crc="78919797" ref="сатурн"/>
+    <file name="____.css" crc="261433252" ref="уран"/>
+    <file name="_________.css" crc="409770607" ref="география"/>
+    <file name="index.css" crc="4058286572" ref="index"/>
+    <file name="______2.css" crc="137773404" ref="нептун"/>
+    <file name="____1.css" crc="4033182244" ref="марс"/>
+    <file name="______3.css" crc="91095760" ref="венера"/>
+    <file name="_____.css" crc="127769315" ref="земля"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="museutils.js" crc="163421577" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="whatinput.js" crc="86476730" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="museconfig.js" crc="36584860" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+    <file name="require.js" crc="244322403" ref="index:сатурн:юпитер:венера:нептун:уран:меркурий:земля:марс:география:планеты:однкнр:биология"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="345214036" ref="index"/>
+    <file name="arrowmenuright.png" crc="4175204551" ref="index"/>
+    <file name="saturn_during_equinox.jpg" crc="3864236657" seo="true" ref="сатурн"/>
+    <file name="220px-thermal_emission_of_jupiter.jpg" crc="3914578914" seo="true" ref="юпитер"/>
+    <file name="220px-jupiterradiovlal.jpg" crc="169649390" seo="true" ref="юпитер"/>
+    <file name="400px-venus-pacific-levelled.jpg" crc="132971660" seo="true" ref="венера"/>
+    <file name="neptune_full.jpg" crc="4181451777" seo="true" ref="нептун"/>
+    <file name="240px-uranus2.jpg" crc="4103641642" seo="true" ref="уран"/>
+    <file name="200px-herscheltelescope.jpg" crc="396862210" seo="true" ref="уран"/>
+    <file name="400px-terrestrial_planet_size_comparisons.jpg" crc="141006200" seo="true" ref="меркурий"/>
+    <file name="300px-mercury,_venus_and_the_moon_align.jpg" crc="220778236" seo="true" ref="меркурий"/>
+    <file name="earth-dscovr-20150706-ifv.jpg" crc="3803789035" seo="true" ref="земля"/>
+    <file name="imgres.jpg" crc="216950020" seo="true" ref="марс"/>
+  </folder>
+  <file name="index.html" crc="70463569" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="сатурн.html" crc="4273914195" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="юпитер.html" crc="4047314525" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="венера.html" crc="462757172" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="нептун.html" crc="3949459420" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="уран.html" crc="3937260910" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="меркурий.html" crc="509294728" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="земля.html" crc="268936978" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="марс.html" crc="3930778426" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="география.html" crc="488030500" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="планеты.html" crc="318092096" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="однкнр.html" crc="154913225" seo="true" mt="1481293264185" redirect="true"/>
+  <file name="биология.html" crc="339774176" seo="true" mt="1481293264185" redirect="true"/>
+</manifest>
